@@ -58,7 +58,7 @@ rtd = [
     "sphinx-book-theme @ git+https://github.com/executablebooks/sphinx-book-theme.git@8da268fce3159755041e8db93e132221a0b0def5#egg=sphinx-book-theme",
     "sphinx-design",
     "sphinxext-rediraffe~=0.2.7",
-    "sphinxcontrib.mermaid~=0.7.1",
+    "sphinxcontrib.mermaid~=0.8",
     "sphinxext-opengraph~=0.6.3",
 ]
 testing = [
